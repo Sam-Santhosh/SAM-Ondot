@@ -1,2 +1,0 @@
-# SAM-Ondot
-DEMO purpose
