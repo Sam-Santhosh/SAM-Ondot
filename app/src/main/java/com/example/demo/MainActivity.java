@@ -3,7 +3,7 @@ package com.example.demo;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//added sample
 public class MainActivity extends AppCompatActivity {
 
     @Override
